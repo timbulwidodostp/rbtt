@@ -1,6 +1,8 @@
 # rbtt
 Perform robust bootstrapped t-tests Use rbtt With (In) R Software
 
+https://www.youtube.com/watch?v=rnYTBI1zKhQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
